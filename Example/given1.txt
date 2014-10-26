@@ -1,0 +1,15 @@
+Possible Alignments: 13
+There is no alignment at position: -9
+Alignment at Position: 1
+AC
+GG
+Alignment at Position: 13
+--AC
+GG--
+Alignment at Position: 5
+A-C
+-GG
+There is no alignment at position: 100
+Alignment at Position: 8
+AC--
+--GG
